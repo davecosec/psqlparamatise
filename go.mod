@@ -1,3 +1,3 @@
-module psql_paramatise
+module github.com/davecosec/psql-paramatise
 
 go 1.18
