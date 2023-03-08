@@ -1,4 +1,4 @@
-package psql_paramatise
+package psqlparamatise
 
 import (
 	"errors"
